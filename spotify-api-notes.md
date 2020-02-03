@@ -9,6 +9,9 @@
 ## What is a Web API endpoint? 
   - An endpoint is what enables an external application to access the Spotify catalog and user data.
 
+## What are Scopes? 
+  - Scopes enable the application to access specific endpoints on behalf of the user. 
+
 ## Objectives: 
 
 Create a simple application using Node to demonstrate: 
